@@ -2,7 +2,7 @@
   <img src="bhawna_profile2.png" width="180" style="border-radius: 50%; border: 2px solid #dcdcdc;" alt="Bhawna Mehbubani"/>
 </p>
 
-<h1 align="center">Hi, I'm Bhawna Mehbubani 🌸</h1>
+<h1 align="center">Hi, I'm Bhawna Mehbubani </h1>
 <h3 align="center">AWS Data Engineer · Streaming & Batch · ML + CV Enthusiast · Bug Whisperer</h3>
 
 ---
@@ -11,7 +11,7 @@
   <img src="bhawna_profile.png" width="140" style="border-radius: 50%; box-shadow: 0 0 12px rgba(255, 105, 180, 0.5);" alt="Bhawna Mehbubani"/>
 
   <div>
-    <h1>Hi, I'm Bhawna Mehbubani 🌸</h1>
+    <h1>Hi, I'm Bhawna Mehbubani </h1>
     <h3>AWS Data Engineer · Batch + Streaming · ML & CV Explorer · Clarity-Driven Creator</h3>
   </div>
 </div>
@@ -24,7 +24,7 @@
       <img src="bhawna_profile2.png" width="140" style="border-radius: 50%;" alt="Bhawna Mehbubani"/>
     </td>
     <td>
-      <h1>Hi, I'm Bhawna Mehbubani 🌸</h1>
+      <h1>Hi, I'm Bhawna Mehbubani </h1>
       <h3>AWS Data Engineer · Real-Time & Batch Pipelines · ML & CV Explorer · Meditation Advocate</h3>
     </td>
   </tr>
@@ -38,7 +38,7 @@
       <img src="bhawna_profile.png" width="140" style="border-radius: 50%; box-shadow: 0 0 12px rgba(255, 105, 180, 0.5);" alt="Bhawna Mehbubani"/>
     </td>
     <td>
-      <h1>Hi, I'm Bhawna Mehbubani 🌸</h1>
+      <h1>Hi, I'm Bhawna Mehbubani </h1>
       <h3>AWS Data Engineer · Real-Time & Batch Pipelines · ML & CV Explorer · Meditation Advocate</h3>
     </td>
   </tr>
@@ -121,14 +121,14 @@ From **Kafka-based streaming** to **Glue-powered batch ETL**, and from **fraud v
 
 ---
 
-### 📫 Reach Me
+### Reach Me
 
 - [LinkedIn](https://www.linkedin.com/in/bhawna-mehbubani/)
 - [GitHub](https://github.com/BhawnaMehbubani)
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BhawnaMehbubani&show_icons=true&theme=calm" width="400"/>
