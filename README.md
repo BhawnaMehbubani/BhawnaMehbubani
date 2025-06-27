@@ -46,7 +46,7 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 
 I’m a **Data Engineer** who bridges the world of scalable cloud pipelines with smart machine learning solutions. I build production-ready systems that quietly run behind the scenes — powering insights, catching silent bugs, and making data move with purpose.
 
@@ -54,7 +54,7 @@ From **Kafka-based streaming** to **Glue-powered batch ETL**, and from **fraud v
 
 ---
 
-### 🛠️ Tools I Use & Love
+###  Tools I Use 
 
 <p align="left">
   <!-- Cloud + Data -->
@@ -86,7 +86,7 @@ From **Kafka-based streaming** to **Glue-powered batch ETL**, and from **fraud v
 
 ---
 
-### 🚀 What I Work On
+###  What I Work On
 
 - **End-to-End Data Pipelines** (Batch + Real-Time)
 - **ETL Validation + Audits** from raw → curated → analytics layer
@@ -96,36 +96,35 @@ From **Kafka-based streaming** to **Glue-powered batch ETL**, and from **fraud v
 
 ---
 
-### 🏆 Highlights & Projects
+###  Highlights & Projects
 
-#### 🎬 IMDb Movie Quality Filter Pipeline  
+#### IMDb Movie Quality Filter Pipeline  
 > Built a pipeline in AWS Glue to ingest only top-rated, well-reviewed movies into Redshift for downstream analytics.
 
-#### 🔐 Real-Time Fraud Analytics Debug  
+#### Real-Time Fraud Analytics Debug  
 > Validated complex Glue → Athena fraud detection pipeline with schema change handling, missing data catchers, and SNS alerting.
 
-#### 🤖 Machine Learning Portfolio  
+#### Machine Learning Portfolio  
 > Developed clean models using **scikit-learn**, image classifiers using **TensorFlow & OpenCV**, and deployed demos for review.
 
-#### 🧠 QnA Rewards Platform – *BlueBolt Hackathon*  
+#### QnA Rewards Platform – *BlueBolt Hackathon*  
 > Full-stack Flask app inspired by StackOverflow to gamify learning using votes + incentives. **Top 3 Winner 🥇**
 
 ---
 
-### 🧭 What I Stand For
+###  What I Stand For
 
-- 💡 Clear data, clean logic, and trusted outcomes  
-- 🛠️ Systems that heal themselves (alerts, retries, audits)  
-- 🔍 Edge-case hunting — where real bugs hide  
-- 🌱 Curiosity-driven growth and learning-by-breaking
+-  Clear data, clean logic, and trusted outcomes  
+-  Systems that heal themselves (alerts, retries, audits)  
+-  Edge-case hunting — where real bugs hide  
+-  Curiosity-driven growth and learning-by-breaking
 
 ---
 
 ### 📫 Reach Me
 
-- [📌 LinkedIn](https://www.linkedin.com/in/bhawna-mehbubani/)
-- [💻 GitHub](https://github.com/BhawnaMehbubani)
-- 🎙️ *Tech blog coming soon*
+- [LinkedIn](https://www.linkedin.com/in/bhawna-mehbubani/)
+- [GitHub](https://github.com/BhawnaMehbubani)
 
 ---
 
