@@ -1,3 +1,23 @@
+<p align="center">
+  <img src="bhawna_profile2.png" width="150" style="border-radius: 50%; box-shadow: 0 0 15px rgba(255,105,180,0.5);" alt="Bhawna Mehbubani"/>
+</p>
+
+<h1 align="center">Hi, I'm Bhawna Mehbubani </h1>
+
+<h3 align="center">AWS Data Engineer · Real-Time & Batch Pipelines · ML & CV Explorer · Clarity-Driven Creator</h3>
+
+---
+
+<p align="center">
+I bring data to life — whether it's real-time Kafka streams or batch pipelines with AWS Glue, I design with purpose, precision, and peace.
+
+🌿 I believe calm thinking builds clean solutions.  
+🧘‍♀️ Mornings start with meditation. Code comes after clarity.
+</p>
+
+
+---
+
 <img src="bhawna-profile.png" width="120" align="left" style="border-radius: 50%; margin-right: 20px;" />
 
 # Hi, I'm Bhawna Mehbubani  
