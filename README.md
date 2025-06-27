@@ -1,4 +1,9 @@
+<img src="bhawna-profile.png" width="120" align="left" style="border-radius: 50%; margin-right: 20px;" />
 
+# Hi, I'm Bhawna Mehbubani  
+**AWS Data Engineer** · Real-Time & Batch Pipelines · ML & CV Explorer · Clarity-Driven Creator  
+
+<br clear="left"/>
 
 <table>
   <tr>
