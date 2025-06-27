@@ -5,6 +5,19 @@
 <h1 align="center">Hi, I'm Bhawna Mehbubani 🌸</h1>
 <h3 align="center">AWS Data Engineer · Streaming & Batch · ML + CV Enthusiast · Bug Whisperer</h3>
 
+<table>
+  <tr>
+    <td width="160">
+      <img src="bhawna-profile.png.JPG" width="140" style="border-radius: 50%;" alt="Bhawna Mehbubani"/>
+    </td>
+    <td>
+      <h1>Hi, I'm Bhawna Mehbubani 🌸</h1>
+      <h3>AWS Data Engineer · Real-Time & Batch Pipelines · ML & CV Explorer · Meditation Advocate</h3>
+    </td>
+  </tr>
+</table>
+
+
 ---
 
 ### 🧠 About Me
