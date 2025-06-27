@@ -9,6 +9,7 @@
 ---
 
 <p align="center">
+  
 ###  About Me
   
 - I bring data to life — whether it's real-time Kafka streams or batch pipelines with AWS Glue, I design with purpose, precision, and peace.
