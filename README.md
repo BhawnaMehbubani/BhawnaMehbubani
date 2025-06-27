@@ -4,7 +4,20 @@
 
 <h1 align="center">Hi, I'm Bhawna Mehbubani 🌸</h1>
 <h3 align="center">AWS Data Engineer · Streaming & Batch · ML + CV Enthusiast · Bug Whisperer</h3>
---
+
+---
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="bhawna_profile.png" width="140" style="border-radius: 50%; box-shadow: 0 0 12px rgba(255, 105, 180, 0.5);" alt="Bhawna Mehbubani"/>
+
+  <div>
+    <h1>Hi, I'm Bhawna Mehbubani 🌸</h1>
+    <h3>AWS Data Engineer · Batch + Streaming · ML & CV Explorer · Clarity-Driven Creator</h3>
+  </div>
+</div>
+
+ ---
+
 <table>
   <tr>
     <td width="160">
@@ -16,7 +29,9 @@
     </td>
   </tr>
 </table>
+
 ---
+
 <table>
   <tr>
     <td width="160" valign="middle">
