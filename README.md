@@ -7,7 +7,7 @@
     </td>
     <td>
       <h1>Hi, I'm Bhawna Mehbubani </h1>
-      <h3>AWS Data Engineer · Real-Time & Batch Pipelines · ML & CV Explorer · Meditation Advocate</h3>
+      <h3>AWS Data Engineer · Real-Time & Batch Pipelines · ML & CV Explorer </h3>
     </td>
   </tr>
 </table>
