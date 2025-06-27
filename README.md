@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bhawna_profile2.png" width="150" style="border-radius: 50%; box-shadow: 0 0 15px rgba(255,105,180,0.5);" alt="Bhawna Mehbubani"/>
+  <img src="bhawna_profile.png" width="150" style="border-radius: 50%; box-shadow: 0 0 15px rgba(255,105,180,0.5);" alt="Bhawna Mehbubani"/>
 </p>
 
 <h1 align="center">Hi, I'm Bhawna Mehbubani </h1>
@@ -18,26 +18,7 @@ I bring data to life — whether it's real-time Kafka streams or batch pipelines
 
 ---
 
-<img src="bhawna-profile.png" width="120" align="left" style="border-radius: 50%; margin-right: 20px;" />
 
-# Hi, I'm Bhawna Mehbubani  
-**AWS Data Engineer** · Real-Time & Batch Pipelines · ML & CV Explorer · Clarity-Driven Creator  
-
-<br clear="left"/>
-
-<table>
-  <tr>
-    <td width="160" valign="middle">
-      <img src="bhawna-profile.png.JPG" width="140" style="border-radius: 50%; box-shadow: 0 0 12px rgba(255, 105, 180, 0.5);" alt="Bhawna Mehbubani"/>
-    </td>
-    <td>
-      <h1>Hi, I'm Bhawna Mehbubani </h1>
-      <h3>AWS Data Engineer · Real-Time & Batch Pipelines · ML & CV Explorer </h3>
-    </td>
-  </tr>
-</table>
-
----
 
 ###  About Me
 
