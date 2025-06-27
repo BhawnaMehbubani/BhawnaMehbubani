@@ -90,11 +90,10 @@
 -  Curiosity-driven growth and learning-by-breaking
 
 ---
-
-### Reach Me
+###  Reach Me
 
 - [LinkedIn](https://www.linkedin.com/in/bhawna-mehbubani/)
-- [Email](bhawnamehbubani@gmail.com)
+- [Email](mailto:bhawnamehbubani@gmail.com)
 
 ---
 
