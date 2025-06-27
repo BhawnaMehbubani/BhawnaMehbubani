@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bhawna-profile.png" width="180" style="border-radius: 50%; border: 2px solid #dcdcdc;" alt="Bhawna Mehbubani"/>
+  <img src="bhawna-profile.png.JPG" width="180" style="border-radius: 50%; border: 2px solid #dcdcdc;" alt="Bhawna Mehbubani"/>
 </p>
 
 <h1 align="center">Hi, I'm Bhawna Mehbubani 🌸</h1>
