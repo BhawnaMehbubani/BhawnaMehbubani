@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="160" valign="middle">
-      <img src="bhawna_profile.png" width="140" style="border-radius: 50%; box-shadow: 0 0 12px rgba(255, 105, 180, 0.5);" alt="Bhawna Mehbubani"/>
+      <img src="bhawna_profile.png.JPG" width="140" style="border-radius: 50%; box-shadow: 0 0 12px rgba(255, 105, 180, 0.5);" alt="Bhawna Mehbubani"/>
     </td>
     <td>
       <h1>Hi, I'm Bhawna Mehbubani </h1>
