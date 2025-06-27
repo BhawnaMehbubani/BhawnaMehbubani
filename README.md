@@ -9,10 +9,11 @@
 ---
 
 <p align="center">
-I bring data to life — whether it's real-time Kafka streams or batch pipelines with AWS Glue, I design with purpose, precision, and peace.
+###  About Me
+- I bring data to life — whether it's real-time Kafka streams or batch pipelines with AWS Glue, I design with purpose, precision, and peace.
 
-🌿 I believe calm thinking builds clean solutions.  
-🧘‍♀️ Mornings start with meditation. Code comes after clarity.
+- I believe calm thinking builds clean solutions.  
+- Mornings start with meditation. Code comes after clarity.
 </p>
 
 
@@ -20,13 +21,7 @@ I bring data to life — whether it's real-time Kafka streams or batch pipelines
 
 
 
-###  About Me
 
-I’m a **Data Engineer** who bridges the world of scalable cloud pipelines with smart machine learning solutions. I build production-ready systems that quietly run behind the scenes — powering insights, catching silent bugs, and making data move with purpose.
-
-From **Kafka-based streaming** to **Glue-powered batch ETL**, and from **fraud validation** to **ML/CV experimentation**, I live at the crossroads of structure and chaos — and I bring order to both.
-
----
 
 ###  Tools I Use 
 
