@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="bhawna_profile2.png" width="180" style="border-radius: 50%; border: 2px solid #dcdcdc;" alt="Bhawna Mehbubani"/>
-</p>
-
-<h1 align="center">Hi, I'm Bhawna Mehbubani </h1>
-<h3 align="center">AWS Data Engineer · Streaming & Batch · ML + CV Enthusiast · Bug Whisperer</h3>
-
----
 
 
 <table>
