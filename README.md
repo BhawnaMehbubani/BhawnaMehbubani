@@ -94,7 +94,7 @@
 ### Reach Me
 
 - [LinkedIn](https://www.linkedin.com/in/bhawna-mehbubani/)
-- [GitHub](https://github.com/BhawnaMehbubani)
+- [Email](bhawnamehbubani@gmail.com)
 
 ---
 
